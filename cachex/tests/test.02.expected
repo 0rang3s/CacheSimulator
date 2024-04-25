@@ -1,0 +1,10 @@
+Loaded value [0x4873815d611718a1] @ address 0x00000000
+Loaded value [0x924873815d611718] @ address 0x00000001
+Loaded value [0x89924873815d6117] @ address 0x00000002
+Loaded value [0x4389924873815d61] @ address 0x00000003
+Loaded value [0x7a4389924873815d] @ address 0x00000004
+Loaded value [0x7e7a438992487381] @ address 0x00000005
+Loaded value [0xbb7e7a4389924873] @ address 0x00000006
+Loaded value [0x31bb7e7a43899248] @ address 0x00000007
+Loaded value [0x0a31bb7e7a438992] @ address 0x00000008
+Cache hits: 8, misses: 1 -- hit rate 88%

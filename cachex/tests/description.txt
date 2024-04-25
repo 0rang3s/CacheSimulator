@@ -1,0 +1,18 @@
+Functionality
+00: Read a value 2x at same address + stat
+01: Read 2 values at different lines + stat
+02: Read 10 values on the first 10 bytes
+03: Read 4 values two in each line + stat
+04: Read 10 values spread across memory + stat
+05: Small 200 reference run
+06: Sequential byte access 64K access
+07: Sequential access 64K, stride 1024
+08: Sequential access 64K, stride 16384
+09: Sequential access 64K, stride 256
+
+Performance (Bench)
+00: Small 200 reference run
+01: Sequential byte access 
+02: Sequential access, stride 1024
+03: Sequential access, stride 16384
+04: Sequential access, stride 256
